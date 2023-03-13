@@ -1,0 +1,145 @@
+.mainheader{
+    background-color: #262338e3 ;
+    color: white;
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 27px;
+    
+
+}
+.heading{
+    
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    height: 62px;
+    margin-top: -2px;
+    margin-left: 40px;
+    font-size: 16px;
+    
+}
+
+.headlist{
+    list-style-type: none;
+    margin-left: 120px;
+    float: right;
+    margin-right: 70px;
+
+}
+.headingbtn{
+    width: 60%;
+    margin: 10px 0 0 auto;
+    padding-top: 20px;
+
+}
+.headbtnli{
+    float: left;
+    width: 100px;
+
+}
+.anchorbtn{
+    color: white;
+    text-decoration: none;
+}
+
+.clear{
+    clear: both;
+
+}
+.mainimg{
+
+    width: 100%;
+    position: relative;
+}
+.mainheading{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.articleimg{
+    height: 80px;
+}
+
+.article-container{
+    width: 25%;
+    text-align: left;
+    float: left;
+    margin-left: 75px;
+    text-align: center;
+
+}
+.artcle-block{
+    border: solid;
+    height: 227px;
+    padding-top: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-color: rgb(228, 228, 228);
+    
+    
+}
+.artcle-block:hover{
+    border-color: blue ;
+}
+footer{
+    background-color: hwb(41 0% 0%);
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+}
+.content-container1{
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 90px;
+    margin-top: -20px;
+
+}
+.content-container2{
+    clear: none;
+    float: right;
+    background-color:#262338e3 ;
+    width: 25%;
+    font-size: 14px;
+    padding: 10px 15px;
+    color: white;
+    margin-right: 90px;
+}
+.services-container{
+    background-color: hsl(0, 0%, 81%);
+    margin-left: 90px;
+    font-size: 14px;
+    margin-top: -2px;
+    padding: 5px 20px;
+    margin-bottom: 7px;
+
+}
+.services-container2{
+    margin-right: 90px;
+    color: white;
+    padding-bottom: 25px;
+
+}
+.services-containbox{
+    margin-left: 15px;
+    font-size: 14px;
+}
+.sendbtn{
+    background-color: hwb(46 0% 0%) ;
+    color: white;
+    padding: 4px 12px;
+    text-decoration: none;
+
+}
+
